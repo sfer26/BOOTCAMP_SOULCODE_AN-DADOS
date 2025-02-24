@@ -46,7 +46,7 @@ Você adicionou um contato!
 - Utilizar Regex para validação avançada de strings - formato dos telefones -  deixando a verificação mais robusta
 - Interface melhor, mais amigável e intuitiva, facilitando a interação ao usuário
 
-## 📧 Contato
-E-mail: sdib2626@gmail.com
-LinkedIn: linkedin.com/in/stella-fernandes-a79089166/
+### **Como me encontrar:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-fernandes-a79089166/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdib2626@gmail.com )  
 

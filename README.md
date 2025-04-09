@@ -18,7 +18,7 @@ Repositório contendo projetos completos desenvolvidos durante o Bootcamp de An�
 
 **Estrutura:**
 ```
-/analise-pagamentos/
+/Analise-Pagamentos-BR/
 ├── /data/
 │   ├── raw/                    # Dados csv do BCB
 ├── /images/                    # Imagens das análises (gráficos)
@@ -47,7 +47,7 @@ Repositório contendo projetos completos desenvolvidos durante o Bootcamp de An�
 
 ```
 /bootcamp-soulcode/
-├── /Analise-Pagamentos/      # Projeto completo de pagamentos
+├── /Analise-Pagamentos-BR/   # Projeto completo de pagamentos
 ├── /Projeto-Python/          # Sistema de agenda Python
 ├── /SQL-queries/             # Consultas SQL analíticas #embreve
 ├── requirements.txt          # Dependências

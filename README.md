@@ -80,9 +80,11 @@ pip install -r requirements.txt
 ## 🌟 **Próximos Passos**
 - [ ] Adicionar integração com MySQL na agenda
 - [ ] Desenvolver dashboard interativo
-- [ ] Implementar análise de sentimentos
+- [ ] Adicionar Projetos de Banco de Dados (SQL/MySQL)
+- [ ] Adicionar Projetos de Banco de Dados com PySpark
+
 
 <div align="center">
   <br>
-  <sub>Desenvolvido com ❤️ durante o Bootcamp SoulCode Academy</sub>
+  <sub>Desenvolvido com determinação durante o Bootcamp SoulCode Academy 🔥💻</sub>
 </div>

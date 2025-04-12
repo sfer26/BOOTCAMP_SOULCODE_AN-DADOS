@@ -6,13 +6,13 @@ Este trabalho foi desenvolvido como parte do **Bootcamp de Analista de Dados** d
 
 ## 🤝 Equipe de Desenvolvimento
 
-[![Analista de Dados](https://img.shields.io/badge/Clarice_Matos-Analista_de_Dados-2ea44f?logo=github)](https://www.linkedin.com/in/claricematos/)
-[![Analista de Dados](https://img.shields.io/badge/Flavia_Reis-Analista_de_Dados-2ea44f?logo=python)](https://github.com/flaviare1s/)  
-[![Analista de Dados](https://img.shields.io/badge/Maria_Eduarda-Analista_de_Dados-3178c6?logo=pandas)](https://github.com/)
-[![Analista de Dados](https://img.shields.io/badge/Mariana_Angeli-Analista_de_Dados-ffd43b?logo=powerbi)](https://github.com/)  
-[![Analista de Dados](https://img.shields.io/badge/Michelle_Pacheco-Analista_de_Dados-9c59b6?logo=r)](https://www.linkedin.com/in/michelle-pacheco-509366351/)
-[![Analista de Dados](https://img.shields.io/badge/Mylena_Tuponi-Analista_de_Dados-4d96ff?logo=sqlite)](https://www.linkedin.com/in/mylenatuponi/)  
-[![Analista de Dados](https://img.shields.io/badge/Stella_Fernandes-Analista_de_Dados-e67e22?logo=tableau)](https://github.com/sfer26/)
+[![Clarice Matos](https://img.shields.io/badge/Clarice_Matos-Analista_de_Dados-e67e22)](https://www.linkedin.com/in/claricematos/)
+[![Flavia Reis](https://img.shields.io/badge/Flavia_Reis-Analista_de_Dados-e67e22)](https://github.com/flaviare1s/)  
+[![Maria Eduarda](https://img.shields.io/badge/Maria_Eduarda-Analista_de_Dados-e67e22)](https://github.com/)
+[![Mariana Angeli](https://img.shields.io/badge/Mariana_Angeli-Analista_de_Dados-e67e22)](https://github.com/)  
+[![Michelle Pacheco](https://img.shields.io/badge/Michelle_Pacheco-Analista_de_Dados-e67e22)](https://www.linkedin.com/in/michelle-pacheco-509366351/)
+[![Mylena Tuponi](https://img.shields.io/badge/Mylena_Tuponi-Analista_de_Dados-e67e22)](https://www.linkedin.com/in/mylenatuponi/)  
+[![Stella Fernandes](https://img.shields.io/badge/Stella_Fernandes-Analista_de_Dados-e67e22)](https://github.com/sfer26/)
 
 ### 👨‍🏫 Orientação Acadêmica
 [![Professor](https://img.shields.io/badge/Prof._Stefane_Bressani-Mentor-8e44ad?logo=graduation-cap)](https://www.linkedin.com/in/stefane-bressani-germano/)

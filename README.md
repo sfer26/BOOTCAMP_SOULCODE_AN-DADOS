@@ -43,15 +43,33 @@ Repositório contendo projetos completos desenvolvidos durante o Bootcamp de An�
 | Banco de Dados  | MySQL                        |
 | Ferramentas     | Jupyter, Git, VSCode         |
 
+### 📊 Análise de Turnover Corporativo
+**Tecnologias**: Python • Pandas • Seaborn • Jupyter  
+**Equipe**: Clarice Matos, Flavia Reis, Marina Eduarda, Mariana Angeli, Michelle Pacheco, Mylena Tuponi, Stella Fernandes  
+
+**Principais entregas**:
+- ✔️ Análise estatística de 18 fatores de desligamento
+- ✔️ Identificação de padrões críticos (pós-promoção, estagnação)
+- ✔️ Heatmap de correlações e KDE plots temporais
+- ✔️ Persona de risco e recomendações estratégicas
+
+**Destaques**:
+- 🔍 Descoberta de pico de 100+ demissões no 1º ano pós-promoção
+- 📈 Proposta de plano de retenção para funcionários em plateau (7+ anos)
+- 🛠️ Tratamento completo de dados com conversão quali-quanti
+
+[▶️ Ver repositório](https://github.com/sfer26/BOOTCAMP_SOULCODE_AN-DADOS/tree/main/Analise_Turnover-Corporativo) 
+
 ## 📂 **Estrutura do Repositório**
 
 ```
 /bootcamp-soulcode/
-├── /Analise-Pagamentos-BR/   # Projeto completo de pagamentos
-├── /Projeto-Python/          # Sistema de agenda Python
-├── /SQL-queries/             # Consultas SQL analíticas #embreve
-├── requirements.txt          # Dependências
-└── README.md                 # Este arquivo
+├── /Analise_Turnover-Corporativo      # Projeto completo de turnover 
+├── /Analise-Pagamentos-BR/            # Projeto completo de pagamentos
+├── /Projeto-Python/                   # Sistema de agenda Python
+├── /SQL-queries/                      # Consultas SQL analíticas #embreve
+├── requirements.txt                   # Dependências
+└── README.md                          # Este arquivo
 ```
 
 ## 🔥 **Destaques Técnicos**
